@@ -32,13 +32,14 @@ A web-based PDF editor that allows users to **view**, **fill**, and **edit** PDF
 ### 📦 Clone the repository and Run
 
 ```bash
-git clone https://github.com/your-username/PDFEditor.git
+git clone https://github.com/swas2301/PDFEditor.git
 cd PDFEditor
+cd backend
+npm install
+npm run start
+cd ..
 cd frontend
 npm install
 npm start
-cd ..
-npm install
-npm run start
 
 
