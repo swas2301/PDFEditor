@@ -11,7 +11,6 @@ A web-based PDF editor that allows users to **view**, **fill**, and **edit** PDF
 - ☑️ Tick/untick checkboxes
 - 🔄 Real-time visual updates on PDF
 - 💾 Save filled PDF to server or download directly
-- ⚙️ Built with clean architecture principles
 
 ---
 
@@ -35,6 +34,8 @@ A web-based PDF editor that allows users to **view**, **fill**, and **edit** PDF
 ```bash
 git clone https://github.com/your-username/PDFEditor.git
 cd PDFEditor
+
+---
 
 ### 📦 Run the Project
 
